@@ -1,0 +1,280 @@
+{
+  "HomePage": {
+    "navbar": {
+      "Home": "Home",
+      "About": "About",
+      "Contact": "Contact",
+      "Projects": "Business",
+      "Services": "Services",
+      "auth": {
+        "sign in": "sign in",
+        "sign up": "sign up",
+        "sign out": "sign out",
+        "profile": "profile",
+        "projects": "Projects"
+      }
+    },
+    "HeroSec": {
+      "title": "We are making life simpler",
+      "description": "At KayanLabs, we turn dreams into reality. Our team specializes in transforming your visions into integrated projects. Whether it's designing a stunning website, planning complex software architecture, building powerful applications, or deploying scalable cloud solutions, we are here to make your ideas come to life."
+    },
+    "ServicesSec": {
+      "title": "Our Services",
+      "subtitle": "We believe success is maximised when the agency-client relationship is the right fit. This means us knowing your organisation’s high-level business drivers and then collaboratively planning innovative",
+      "Design": "Design",
+      "Devolopment": "Devolopment",
+      "Digital Marketing": "Digital Marketing",
+      "Design description": "Balancing users’ needs and business goals We are a team of creative solvers with a primary focus in design & branding",
+
+      "Devolopment description": "Focus on your idea and leave the coding to the clouders. When it comes to code, it’s our solid land supported by the latest technology in the web world",
+
+      "Digital Marketing description": "Grow brand awareness engagement and traffic We are helping you listen to what people are saying about you and how to deliver back your response"
+    },
+    "ProjectsSec": {
+      "title": "Our Business",
+      "description": "Our Business"
+    },
+    "AboutSec": {
+      "title": "About US",
+      "description": "KyanLabs is a  company established by a group of youth to deliver digital solutions to help ease everone's life in various ways, allowing us to keep pace with the era of digital transformation that we live in now."
+    },
+    "OurTeamSec": {
+      "title": "team",
+      "description": "Our talented team"
+    },
+    "ContactSec": {
+      "title": "Contact Us",
+      "description": "We stay ahead of every technology to deliver top-notch solutions tailored to your business needs.",
+      "recaptchaMsg": "Please complete the reCAPTCHA verification before submitting.",
+
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send",
+      "nameMsg": "Name is required",
+      "emailMsg": "Email is required",
+      "Invalid email format": "Invalid email format",
+      "phoneMsg": "Phone number is required",
+      "messageMsg": "Message is required"
+    },
+    "Footer": {
+      "footerDes": "KyanLabs is a  company established by a group of youth to deliver digital solutions to help ease everone's life in various ways, allowing us to keep pace with the era of digital transformation that we live in now.",
+      "location": "3D/3 Shoukri Abdel Haleem st. - Takseem El Laselki - Maadi - Cairo",
+      "All rights reserved": "© Copyright Kyanlabs. All Rights Reserved"
+    }
+  },
+  "ProjectCompany": {
+    "title": "Details",
+    "projectDescription": "Project Description",
+    "Live Preview": "Live Preview"
+  },
+
+  "sign-in": {
+    "title": "Sign In",
+    "label": "Enter your credentials to access your account",
+    "email": "Email",
+    "emailMsg": "Email is required",
+    "password": "Password",
+    "passwordMsg": "Password must be at least 8 characters",
+    "signIn": "sign in",
+    "footerLabel": "Don't have an account?",
+    "textLink": "Sign up"
+  },
+  "sign-up": {
+    "title": "Sign up",
+    "label": "Create a new account to get started",
+    "userName": "user name",
+    "userNameMsg": "User name is required",
+    "email": "Email",
+    "emailMsg": "Email is required",
+    "phone": "Phone",
+    "phoneMsg": "Phone number is required",
+    "password": "Password",
+    "passwordMsg": "Password must be at least 8 characters",
+    "SignUp": "Sign up",
+    "footerLabel": "Already have an account?",
+    "textLink": "Sign in"
+  },
+  "profile": {
+    "title": "profile page",
+    "show": "show",
+    "edit": "edit",
+    "name": "name",
+    "email": "email",
+    "phone": "phone",
+    "password": "password",
+    "submit": "Save Changes"
+  },
+  "userProjects": {
+    "title": "My Projects",
+    "createTitle": "New Project Request",
+    "createDescription": "Fill out the form below to submit a new project request.",
+    "name": "Project Name",
+    "namePlaceHolder": "Enter project name",
+    "nameMsg": "Name is required",
+    "projectDescription": "Project Description",
+    "projectDescriptionPlaceHolder": "Enter project description",
+    "projectDescriptionMsg": "Description is required",
+    "submit": "Submit Request",
+    "All Requests": "All Requests",
+    "AllProjectRequests": "All Project Requests",
+    "ViewAllRequests": "View all submitted project requests.",
+    "NoProjectRequests": "No project requests yet."
+  },
+  "metaData": {
+    "title": "Search Engines",
+    "editMetaData": "Edit Search Engines",
+    "editMetaDataDetails": "Include search engine details below",
+    "addMetaData": "Add search engines",
+    "addMetaDataDetails": "Add search engine details below",
+    "edit": "Edit",
+    "meta_description_en": "Description in English",
+    "meta_description_ar": "Description in Arabic",
+    "meta_title_en": "Title in English",
+    "meta_title_ar": "Title in Arabic",
+    "meta_keywords_en": "Keywords in English",
+    "meta_keywords_ar": "Keywords in Arabic",
+    "meta_description_en_IsRequired": "Description in English is required",
+    "meta_description_ar_IsRequired": "Description in Arabic is required",
+    "meta_title_en_IsRequired": "English title is required",
+    "meta_title_ar_IsRequired": "Arabic title is required",
+    "meta_keywords_en_IsRequired": "English keywords are required",
+    "meta_keywords_ar_IsRequired": "Arabic keywords are required",
+    "saveChanges": "Save changes"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
+  },
+  "Table": {
+    "SelectFilter": "Select Filter",
+    "FilterPlaceholder": "Filter...",
+    "Columns": "Columns",
+    "NoResults": "No results found",
+    "ShowingResults": "Showing {start} to {end} of {total} results",
+    "Previous": "Previous",
+    "Next": "Next",
+    "manage": "Mange",
+    "selectAll": "Select All",
+    "selectRow": "Select Row",
+    "openMenu": "Open Menu",
+    "actions": "Actions",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "add new",
+    "showUserProjects": "Show User Projects",
+    "navigateToProject": "navigate to project"
+  },
+  "Users": {
+    "username": "Username",
+    "phone": "Phone",
+    "email": "Email",
+    "users": "Users",
+    "FilterName": "Filter by name",
+    "DeleteAssistant": "Delete Assistant"
+  },
+  "deleteDialog": {
+    "Confirm Delete": "Confirm Delete",
+    "Are you sure you want to delete?": "Are you sure you want to delete ?",
+    "Cancel": "Cancel",
+    "Delete": "Delete"
+  },
+
+  "Teams": {
+    "name ar": "Name in Arabic",
+    "name en": "Name in English",
+    "position ar": "Position in Arabic",
+    "position en": "Position in English",
+    "link facebook": "Facebook Link",
+    "link twitter": "Twitter Link",
+    "link instagram": "Instagram Link",
+    "link linkedin": "LinkedIn Link",
+    "teams": "Teams",
+    "FilterName": "Filter by Name",
+    "image": "image"
+  },
+  "Project": {
+    "title_ar": "Arabic Title",
+    "title_en": "English Title",
+    "image": "Image",
+    "description_ar": "Arabic Description",
+    "description_en": "English Description",
+    "link": "Link",
+    "projects": "Projects",
+    "FilterName": "Filter by Name"
+  },
+  "teamsDialog": {
+    "EditTeamMember": "Edit Team Member",
+    "EditTeamMemberDetails": "Update the details of the team member below.",
+    "addNewTeamMember": "Add New Team Member",
+    "addNewTeamMemberDetails": "Please fill in the details below to add a new team member.",
+    "saveChanges": "Save Changes",
+    "name_en": "Name (English)",
+    "name_ar": "Name (Arabic)",
+    "position_en": "Position (English)",
+    "position_ar": "Position (Arabic)",
+    "email": "Email",
+    "image": "Image",
+    "link_facebook": "Facebook Link",
+    "link_instagram": "Instagram Link",
+    "link_twitter": "Twitter Link",
+    "link_linkedin": "LinkedIn Link",
+    "arabicNameIsRequired": "Arabic name is required",
+    "englishNameIsRequired": "English name is required",
+    "arabicPositionIsRequired": "Arabic position name is required",
+    "englishPositionIsRequired": "English position is required",
+    "EmailRequired": "Email is required",
+    "imageIsRequired": "Image is required",
+    "facebookLinkIsRequired": "Facebook link is required",
+    "instagramLinkIsRequired": "Instagram link is required",
+    "twitterLinkIsRequired": "Twitter link is required",
+    "linkedinLinkIsRequired": "LinkedIn link is required"
+  },
+  "projectDialog": {
+    "addNewProject": "Add New Project",
+    "addNewProjectDetails": "Fill in the details to create a new project.",
+    "saveChanges": "Save Changes",
+    "title_en": "English Title",
+    "title_ar": "Arabic Title",
+    "description_en": "English Description",
+    "description_ar": "Arabic Description",
+    "link": "Link",
+    "required": "This field is required.",
+    "image": "image",
+    "editProject": "Edit Project",
+    "editProjectDetails": "Update the details of the project."
+  },
+  "userProject": {
+    "NoProjectData": "No project data found.",
+    "title": "Project Title",
+    "titleMsg": "Project title is required",
+    "details": "Project Details",
+    "detailsMsg": "Project details are required",
+    "user_id": "User ID",
+    "status": "Status",
+    "userProjects": "User Projects",
+    "FilterName": "Filter by Name",
+    "editProject": "Edit Project",
+    "created": "Created",
+    "lastUpdated": "last Updated"
+  },
+  "projectReport": {
+    "title": "Report",
+    "created": "Created",
+    "lastUpdated": "last Updated"
+  },
+  "deletePopup": {
+    "title": "Delete",
+    "description": "Are you sure to delete?"
+  },
+  "SharedCard": {
+    "Live Preview": "Live Preview",
+    "Details": "Details"
+  },
+  "Error": {
+    "somethingWentWrong": "Something went wrong",
+    "tryAgain": "Try again",
+    "backToHome": "Back to Home"
+  }
+}
